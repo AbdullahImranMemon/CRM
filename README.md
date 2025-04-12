@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="/public/CRM.png">
-    <img src="assets/logo.png" alt="Logo" width="120" height="120">
+    <img src="/public/CRM.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">CRM</h3>
